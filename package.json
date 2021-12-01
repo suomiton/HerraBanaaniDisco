@@ -1,0 +1,17 @@
+{
+  "name": "herrabanaanidisco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Toni Suominen",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
